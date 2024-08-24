@@ -2,7 +2,7 @@
 
 ## Milestones
 
-> 🎈 Cronograma https://hackmd.io/@antonmarcelo/Byke9Y8b0
+> 🎈 Timeline https://hackmd.io/@antonmarcelo/Byke9Y8b0
 
 ### Rust I - (96 hours total)
 - **16** - Modules
