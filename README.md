@@ -1,4 +1,6 @@
-# Rust course milestones
+# Rust course 
+
+## Milestones
 
 > 🎈 Cronograma https://hackmd.io/@antonmarcelo/Byke9Y8b0
 
