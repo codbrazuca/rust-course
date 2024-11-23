@@ -14,15 +14,15 @@
 - **12** - 10 minutes classes for each module's topic
 
 **Introduction to Rust and Development Environment**
-- [ ] Introduction to Rust: history, features, and usage.
-- [ ] Rust installation and development environment setup.
-- [ ] Hello World in Rust: writing and running the first program.
+- [x] Introduction to Rust: history, features, and usage.
+- [x] Rust installation and development environment setup.
+- [x] Hello World in Rust: writing and running the first program.
 
 **Basic Rust Concepts**
-- [ ] Variables, constants, and data types in Rust.
-- [ ] Operators and expressions.
-- [ ] Control flow: if, else, loops, match.
-- [ ] Working with functions: definition, parameters, return, and scope.
+- [x] Variables, constants, and data types in Rust.
+- [x] Operators and expressions.
+- [x] Control flow: if, else, loops, match.
+- [x] Working with functions: definition, parameters, return, and scope.
 
 **Ownership and References**
 - [ ] Ownership and borrowing.
