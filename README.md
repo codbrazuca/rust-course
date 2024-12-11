@@ -25,13 +25,13 @@
 - [x] Working with functions: definition, parameters, return, and scope.
 
 **Ownership and References**
-- [ ] Ownership and borrowing.
-- [ ] References and mutability.
-- [ ] Slices in Rust.
+- [x] Ownership and borrowing.
+- [x] References and mutability.
+- [x] Slices in Rust.
 
 **Basic Data Structures**
 - [ ] Vectors and slices.
-- [ ] Strings in Rust.
+- [x] Strings in Rust.
 - [ ] Working with tuples and structs.
 
 **Enums and Pattern Matching**
