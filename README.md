@@ -63,9 +63,9 @@
 - [ ] Traits in Rust.
 
 **Safe and Efficient Programming**
-- [ ] Basic security in Rust.
-- [ ] Memory management without garbage collection.
-- [ ] Safe usage of pointers and references.
+- [x] Basic security in Rust.
+- [x] Memory management without garbage collection.
+- [x] Safe usage of pointers and references.
 
 **Rust for Command Line Application (CLI) Development**
 - [ ] Developing command line applications in Rust.
