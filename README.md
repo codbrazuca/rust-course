@@ -30,7 +30,7 @@
 - [x] Slices in Rust.
 
 **Basic Data Structures**
-- [ ] Vectors and slices.
+- [x] Vectors and slices.
 - [x] Strings in Rust.
 - [ ] Working with tuples and structs.
 
