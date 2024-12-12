@@ -32,7 +32,7 @@
 **Basic Data Structures**
 - [x] Vectors and slices.
 - [x] Strings in Rust.
-- [ ] Working with tuples and structs.
+- [x] Working with tuples and structs.
 
 **Enums and Pattern Matching**
 - [ ] Defining and using enums.
@@ -59,7 +59,7 @@
 
 **Object-Oriented Programming in Rust**
 - [ ] Basic object-oriented programming concepts in Rust.
-- [ ] Defining methods in structs.
+- [x] Defining methods in structs.
 - [ ] Traits in Rust.
 
 **Safe and Efficient Programming**
