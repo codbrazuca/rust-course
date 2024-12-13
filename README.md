@@ -35,7 +35,7 @@
 - [x] Working with tuples and structs.
 
 **Enums and Pattern Matching**
-- [ ] Defining and using enums.
+- [x] Defining and using enums.
 - [ ] Pattern matching in Rust.
 
 **Error Handling**
