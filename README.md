@@ -4,14 +4,7 @@
 
 > 🎈 Timeline https://hackmd.io/@antonmarcelo/Byke9Y8b0
 
-### Rust I - (96 hours total)
-- **16** - Modules
-- **96** - Hours
-- **5760** - Minutes
-- **576** - 10 minutes classes
-- **36** - 10 minutes classes for each module
-- **47** - Topics 
-- **12** - 10 minutes classes for each module's topic
+### Rust I
 
 **Introduction to Rust and Development Environment**
 - [x] Introduction to Rust: history, features, and usage.
@@ -40,7 +33,7 @@
 
 **Error Handling**
 - [x] Error handling in Rust: Result and Option.
-- [ ] Throwing and catching errors with Result and Option.
+- [x] Throwing and catching errors with Result and Option.
 
 **Programming in Rust**
 - [ ] Higher-order functions.
@@ -92,14 +85,7 @@
 - [ ] Integrating Rust with other programming languages.
 - [ ] Rust as a language extension for other languages.
 
-### Rust II - (64 hours total)
-- **8** - Modules
-- **64** - Hours
-- **3840** - Minutes
-- **576** - 10 minutes classes
-- **72** - 10 minutes classes for each module
-- **24** - Topics 
-- **3** - 10 minutes classes for each module's topic
+### Rust II
 
 **Rust for Parallel and Distributed Computing**
 - [ ] Parallel and distributed computing in Rust.
