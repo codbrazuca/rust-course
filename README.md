@@ -39,7 +39,7 @@
 - [x] Pattern matching in Rust.
 
 **Error Handling**
-- [ ] Error handling in Rust: Result and Option.
+- [x] Error handling in Rust: Result and Option.
 - [ ] Throwing and catching errors with Result and Option.
 
 **Programming in Rust**
