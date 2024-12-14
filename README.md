@@ -36,7 +36,7 @@
 
 **Enums and Pattern Matching**
 - [x] Defining and using enums.
-- [ ] Pattern matching in Rust.
+- [x] Pattern matching in Rust.
 
 **Error Handling**
 - [ ] Error handling in Rust: Result and Option.
