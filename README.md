@@ -53,7 +53,7 @@
 **Object-Oriented Programming in Rust**
 - [ ] Basic object-oriented programming concepts in Rust.
 - [x] Defining methods in structs.
-- [ ] Traits in Rust.
+- [x] Traits in Rust.
 
 **Safe and Efficient Programming**
 - [x] Basic security in Rust.
