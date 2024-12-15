@@ -51,7 +51,7 @@
 - [ ] Handling input/output errors.
 
 **Object-Oriented Programming in Rust**
-- [ ] Basic object-oriented programming concepts in Rust.
+- [x] Basic object-oriented programming concepts in Rust.
 - [x] Defining methods in structs.
 - [x] Traits in Rust.
 
