@@ -67,8 +67,8 @@
 - [ ] Working with the standard error system.
 
 **Testing and Documentation**
-- [ ] Writing unit tests and integration tests in Rust.
-- [ ] Documentation in Rust using Rustdoc.
+- [x] Writing unit tests and integration tests in Rust.
+- [x] Documentation in Rust using Rustdoc.
 - [ ] Best practices for testing and documentation in Rust.
 
 **Package Publishing and Dependency Management**
@@ -77,9 +77,9 @@
 - [ ] Publishing packages on crates.io.
 
 **Rust and Performance**
-- [ ] Code optimization in Rust.
+- [x] Code optimization in Rust.
 - [ ] Profiling tools in Rust.
-- [ ] Strategies for improving code performance in Rust.
+- [x] Strategies for improving code performance in Rust.
 
 **Integration with Other Languages**
 - [ ] Integrating Rust with other programming languages.
