@@ -78,7 +78,7 @@
 
 **Rust and Performance**
 - [x] Code optimization in Rust.
-- [ ] Profiling tools in Rust.
+- [x] Profiling tools in Rust.
 - [x] Strategies for improving code performance in Rust.
 
 **Integration with Other Languages**
