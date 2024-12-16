@@ -72,9 +72,9 @@
 - [x] Best practices for testing and documentation in Rust.
 
 **Package Publishing and Dependency Management**
-- [ ] Preparing a Rust project for publication.
-- [ ] Using Cargo to manage dependencies.
-- [ ] Publishing packages on crates.io.
+- [x] Preparing a Rust project for publication.
+- [x] Using Cargo to manage dependencies.
+- [x] Publishing packages on crates.io.
 
 **Rust and Performance**
 - [x] Code optimization in Rust.
