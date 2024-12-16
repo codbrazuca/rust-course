@@ -41,9 +41,9 @@
 - [x] Closures in Rust.
 
 **Basic Concurrency**
-- [ ] Introduction to concurrency in Rust.
-- [ ] Threads and basic concurrency.
-- [ ] Communication between threads using channels.
+- [x] Introduction to concurrency in Rust.
+- [x] Threads and basic concurrency.
+- [x] Communication between threads using channels.
 
 **File Handling and Input/Output**
 - [ ] Reading and writing files in Rust.
