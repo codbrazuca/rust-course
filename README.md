@@ -69,7 +69,7 @@
 **Testing and Documentation**
 - [x] Writing unit tests and integration tests in Rust.
 - [x] Documentation in Rust using Rustdoc.
-- [ ] Best practices for testing and documentation in Rust.
+- [x] Best practices for testing and documentation in Rust.
 
 **Package Publishing and Dependency Management**
 - [ ] Preparing a Rust project for publication.
