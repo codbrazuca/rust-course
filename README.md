@@ -97,9 +97,9 @@
 - [ ] Async/await syntax and programming with async/await in Rust
 
 **Advanced Traits and Generics**
-- [ ] Associated types and default type parameters
-- [ ] Higher-kinded types and trait objects
-- [ ] Implementing advanced trait bounds and constraints
+- [x] Associated types and default type parameters
+- [x] Higher-kinded types and trait objects
+- [x] Implementing advanced trait bounds and constraints
 
 **Metaprogramming with Macros**
 - [ ] Procedural macros: derive, attribute, and
@@ -108,9 +108,9 @@
 - [ ] Advanced macro use cases and best practices
 
 **Advanced Error Handling**
-- [ ] Custom error types and error chaining
-- [ ] Advanced use of Result and Option
-- [ ] Error handling patterns in complex applications
+- [x] Custom error types and error chaining
+- [x] Advanced use of Result and Option
+- [x] Error handling patterns in complex applications
 
 **Advanced I/O and Asynchronous Programming**
 - [ ] Advanced file I/O with tokio and async-std
