@@ -36,9 +36,9 @@
 - [x] Throwing and catching errors with Result and Option.
 
 **Programming in Rust**
-- [ ] Higher-order functions.
-- [ ] Iterators and functional programming.
-- [ ] Closures in Rust.
+- [x] Higher-order functions.
+- [x] Iterators and functional programming.
+- [x] Closures in Rust.
 
 **Basic Concurrency**
 - [ ] Introduction to concurrency in Rust.
